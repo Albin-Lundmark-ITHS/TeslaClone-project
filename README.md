@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-# TeslaClone
+## TeslaClone
 
 Code along in react during my studies at IT-högskolan Stockholm
 
